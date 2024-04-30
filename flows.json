@@ -939,7 +939,7 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 680,
+        "x": 740,
         "y": 240,
         "wires": []
     },
