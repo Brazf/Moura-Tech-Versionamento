@@ -1,0 +1,12 @@
+{
+    "name": "Projeto-MouraTech",
+    "description": "Primeira aula sobre versionamento dos projetos do MouraTech",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
